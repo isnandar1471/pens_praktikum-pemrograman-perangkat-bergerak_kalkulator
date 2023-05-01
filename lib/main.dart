@@ -1,16 +1,14 @@
 import 'package:flutter/material.dart';
-import 'calculator.dart';
+import 'package:untitled/Splash.dart';
 
 class Main extends StatelessWidget {
   const Main({super.key});
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      debugShowCheckedModeBanner: false,
+    return const MaterialApp(
       title: 'Simple Calculator',
-      theme: ThemeData(primarySwatch: Colors.blue),
-      home: const Calculator(),
+      home: Splash(),
     );
   }
 }

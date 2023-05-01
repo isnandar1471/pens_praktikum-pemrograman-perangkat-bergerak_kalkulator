@@ -6,4 +6,5 @@ class Symbol {
   static const String addition = '+';
   static const String subtraction = '-';
   static const String equal = '=';
+  static const String pi = 'π';
 }
