@@ -1,6 +1,6 @@
 # Flutter-based Calculator App with State Management Provider
 
-![screenshot of calculator app](docs/img/main-nomockup.jpg)
+![screenshot of calculator app](docs\img\twin-mockup-right.jpg)
 
 This is a repository for a simple Flutter-based calculator app that uses state management provider. This app can perform basic mathematical operations such as addition, subtraction, multiplication, and division.
 
